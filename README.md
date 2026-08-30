@@ -1,2 +1,2 @@
-# activity_github
-This repository is for practicing the GitHub Flow.
+My name is Alex and I'm editing the readme.md
+
